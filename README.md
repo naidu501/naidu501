@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naidu501
-- 👀 I’m interested in CODE
+- 👀 I’m interested in CODING
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ANY WAY
